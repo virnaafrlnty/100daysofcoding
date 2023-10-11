@@ -1,4 +1,3 @@
-
 package pkg100dayss;
  
 public class day2 {
